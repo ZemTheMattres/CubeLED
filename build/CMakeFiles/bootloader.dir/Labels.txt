@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+C:/Programing/ESP32/Projects/ESP32_NeoPixel_RGBW/build/CMakeFiles/bootloader
+C:/Programing/ESP32/Projects/ESP32_NeoPixel_RGBW/build/CMakeFiles/bootloader.rule
+C:/Programing/ESP32/Projects/ESP32_NeoPixel_RGBW/build/CMakeFiles/bootloader-complete.rule
+C:/Programing/ESP32/Projects/ESP32_NeoPixel_RGBW/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+C:/Programing/ESP32/Projects/ESP32_NeoPixel_RGBW/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+C:/Programing/ESP32/Projects/ESP32_NeoPixel_RGBW/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+C:/Programing/ESP32/Projects/ESP32_NeoPixel_RGBW/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+C:/Programing/ESP32/Projects/ESP32_NeoPixel_RGBW/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+C:/Programing/ESP32/Projects/ESP32_NeoPixel_RGBW/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+C:/Programing/ESP32/Projects/ESP32_NeoPixel_RGBW/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
